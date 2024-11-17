@@ -16,7 +16,7 @@ const Section3 = () => {
         </button>
       </div>
       <div className="relative z-20">
-        <div className="flex justify-between flex-col md:flex-row gap-8 md:gap-0">
+        <div className="flex justify-center items-center md:justify-between flex-col md:flex-row gap-8 md:gap-0">
           <Section3Cards image={Image1} title={"Title"} />
           <Section3Cards image={Image2} title={"Title"} />
           <Section3Cards image={Image3} title={"Title"} />

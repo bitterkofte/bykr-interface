@@ -13,7 +13,7 @@ const Section1 = () => {
           suspendisse nec lorem mauris. Pharetra, eu imperdiet ipsum ultrices
           amet.
         </p>
-        <div className="flex gap-4 items-center text-amber-900">
+        <div className="flex gap-4 items-center justify-center md:justify-start text-amber-900">
           <button className="h-14 text-xl font-medium px-8 py-4 leading-6 border-amber-900 border-2 rounded-lg hover:scale-110 hover:shadow-lg transition-all">
             Sign up now
           </button>
